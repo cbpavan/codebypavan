@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @codebypavan
-- 👀 I’m interested in data
+- 👀 I’m interested in data engineering and machine learning
+- 😎 Actively looking for jobs to sharpen my knowledge
 - 🌱 I’m currently learning Python
 - 📫 How to reach me find me on my website
 
