@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @codebypavan
-- 👀 I’m interested in front-end development
+- 👋 Hi, I am @codebypavan
+- 👀 I’m interested in front-end development (HTML, CSS, and JavaScript)
 - 📜 Visit my blog : https://codebypavan.substack.com/
-- 😎 Actively looking for jobs in Y-Combinator startups related construction field
-- 🌱 I’m currently learning Python
-- 📫 How to reach me find me on my website 
+- 😎 Actively looking for roles in startups backed by Y-Combinator related construction field
+- 🌱 I’m currently learning Javascript & Python. 
+- 📫 How to reach me find me on my website (website coming soon)
 
 <!---
 codebypavan/codebypavan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
