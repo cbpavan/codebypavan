@@ -1,6 +1,6 @@
 - 👋 Hi, I am @codebypavan
 - 👀 I’m interested in front-end development (HTML, CSS, and JavaScript)
-- 📜 Visit my blog : https://codebypavan.substack.com/
+- 📜 Visit my website: COMING SOON!
 - 😎 Actively looking for roles in startups backed by Y-Combinator related construction field
 - 🌱 I’m currently learning Javascript & Python. 
 - 📫 How to reach me find me on my website (website coming soon)
